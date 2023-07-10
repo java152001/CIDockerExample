@@ -1,4 +1,4 @@
-name: Docker Image Test_Build_Deploy CI
+name: Docker Image Test_Build_Deploy CIv2
 
 on: push
 #
