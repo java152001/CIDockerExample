@@ -81,7 +81,7 @@ app.post("/auth", (req, res) => {
   <input type="submit" value="OK">
   </form>`;
 
-  res.send(form);
+  res.send(form); 
 });
 // list all contacts
 app.get("/contacts", authenticate2, function (req, res) {
