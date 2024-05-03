@@ -21,7 +21,7 @@ const authenticate = (req, res, next) => {
 // store contacts in an arrays
 var contacts = [
   {
-    name: "peter parker",
+    name: "billy parker",
     age: 21,
     email: "peter@mit.edu",
     courses: [
