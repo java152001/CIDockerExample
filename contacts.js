@@ -6,7 +6,7 @@ app.use(express.json());
 // store contacts in an arrays
 var contacts = [
   {
-    name: "peter parker",
+    name: "ben parker",
     age: 21,
     email: "peter@mit.edu",
     courses: [
